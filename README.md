@@ -1,2 +1,2 @@
 # audio_fingerprinting
- A simple introduction of audio fingerprinting. How does Shazam work.
+ A simple introduction of audio fingerprinting. A similar phenomenon to shazam application.
